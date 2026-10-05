@@ -1,1 +1,6 @@
-print("hello")
+
+def prints():
+    print("hello")
+
+
+prints()
